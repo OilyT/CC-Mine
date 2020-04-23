@@ -1,6 +1,6 @@
 --digs 2x2 with 3d search
---collects ores specified within UI
---ejects cobble and 'ites'
+--collects ores specified within od
+--ejects cobble and other unwanted blocks
 
 os.loadAPI('nav.lua')
 
@@ -9,7 +9,7 @@ local moves = {}
 local index = 1
 local DIR = 1
 --defaults
-local DISTANCE = 4
+local DISTANCE = 64
 local TUNNELS = 4
 local coal_num = 32
 local ores_dictionary =
@@ -259,8 +259,3 @@ function main()
 end
 
 main()
-
-penis
-x`
-
-dxtfyghuijk

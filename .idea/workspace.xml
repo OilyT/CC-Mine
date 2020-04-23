@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd99e33b-9b2c-46c4-a1bb-62198fd15ffd" name="Default Changelist" comment="" />
+    <list default="true" id="fd99e33b-9b2c-46c4-a1bb-62198fd15ffd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mine_v7.0.lua" beforeDir="false" afterPath="$PROJECT_DIR$/mine_v7.0.lua" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,14 @@
       <option name="presentableId" value="Default" />
       <updated>1587609245454</updated>
     </task>
+    <task id="LOCAL-00001" summary="hello world">
+      <created>1587609530668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587609530668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -47,10 +57,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello world" />
   </component>
 </project>
